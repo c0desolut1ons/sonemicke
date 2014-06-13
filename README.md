@@ -1,4 +1,4 @@
-sonemicke
+Android Development
 =========
 
-test projekat za divljanje
+Setting Enviroment for Android Development
