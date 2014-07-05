@@ -2,5 +2,12 @@ Android development
 
 I Git and GitHub
 
+	I.1. Branch
+		
+		Make branch in local repo:
+			checkout -b branch_name
+			
+		
+
   
 
